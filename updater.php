@@ -178,7 +178,7 @@ class Updater {
 }
 new Updater(
     [
-        'name' => 'wax',                     // Theme Name.
+        'name' => 'wax',
         'repo' => 'wam1995/wax',             // Theme repository.
         'slug' => 'wax',                     // Theme Slug.
         'url'  => 'https://www.joytheme.com', // Theme URL.
